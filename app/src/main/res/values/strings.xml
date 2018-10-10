@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SportAPP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBSMI5Iq7p1rilJZMjSBJ4BmMfpNl8c8zM</string>
+
+    <!--Errors-->
+    <string name="load_error">Error with refreshing data try again later</string>
+
+    <!--Complete-->
+    <string name="refresh_complete">Refresh data successful</string>
+</resources>
